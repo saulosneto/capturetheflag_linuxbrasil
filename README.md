@@ -13,6 +13,8 @@ Ache a flag escondida dentro da imagem com a arte do grupo Linux Brasil. Dica: "
 
 Primeiro a achar a flag que estava obfuscada e em binário: Pedro Lucas (Parabéns novamente, ganhou um curso avançado ou dois intermediários!)
 
+Segundo a achar a flag: Leo (Parabéns!!!)
+
 ---
 
 [Nível 2b: Steganografia com Engenharia Reversa em jogo funcional: A ROM Pokemon Trading Carding Game traduzida de Gameboy Color que funciona, tem uma mensagem secreta!]
