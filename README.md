@@ -21,6 +21,8 @@ Segundo a achar a flag: Leo (Parabéns!!!)
 
 Ache a mensagem secreta!
 
+Primeiro a achar a flag: Pedro Lucas (Parabéns!!!)
+
 ---
 
 Boa Sorte!
