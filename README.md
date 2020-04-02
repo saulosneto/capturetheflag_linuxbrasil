@@ -25,6 +25,25 @@ Primeiro a achar a flag: Pedro Lucas (Parabéns!!!)
 
 ---
 
+[Nível 3: Steganografia]
+
+Feito por: Pedro Lucas (Administrador do grupo Linux Brasil)
+https://drive.google.com/open?id=1DdBHs7sBFWwMVon5usiZIa47-zbnESlH
+
+Primeiro a achar a flag: Saulo (Parabéns!!!)
+
+---
+
+[Nível 4: Steganografia de Espionagem Industrial]
+
+Você trabalha para uma empresa grande, e a empresa de design gráfico foi subornada para enviar um PDF com uma mensagem secreta para testar a vulnerabilidade dos funcionários. Ache esta mensagem.
+
+Dica de ferramenta para utilizar: PDF-Parser ( escrita em Python, link: http://didierstevens.com/files/software/pdf-parser_V0_7_4.zip )
+Instruções de build se necessário: https://blog.didierstevens.com/programs/pdf-tools/
+Arquivo para achar a flag: https://github.com/saulosneto/capturetheflag_linuxbrasil/blob/master/wine.pdf
+
+---
+
 Boa Sorte!
 
 Ao conseguir, poste o print do gHidra/outro software na parte da flag e do terminal com a mensagem de Parabéns(se for o caso do CTF feito) no PV do Administrador Saulo no grupo Linux Brasil.
