@@ -38,7 +38,7 @@ Primeiro a achar a flag: Saulo (Parabéns!!!)
 
 Você trabalha para uma empresa grande, e a empresa de design gráfico foi subornada para enviar um PDF com uma mensagem secreta para testar a vulnerabilidade dos funcionários. Ache esta mensagem.
 
-Dica de ferramenta para utilizar: PDF-Parser ( escrita em Python, link: http://didierstevens.com/files/software/pdf-parser_V0_7_4.zip )
+Dica de ferramenta para utilizar: PDF-Parser ( escrita em Python, link: http://didierstevens.com/files/software/pdf-parser_V0_7_4.zip ou https://github.com/saulosneto/capturetheflag_linuxbrasil/blob/master/pdf-parser.py )
 Instruções de build se necessário: https://blog.didierstevens.com/programs/pdf-tools/
 Arquivo para achar a flag: https://github.com/saulosneto/capturetheflag_linuxbrasil/blob/master/wine.pdf
 
