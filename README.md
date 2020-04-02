@@ -34,7 +34,7 @@ Primeiro a achar a flag: Saulo (Parabéns!!!)
 
 ---
 
-[Nível 4: Steganografia de Espionagem Industrial]
+[Nível 4: Steganografia Forense de Espionagem Industrial]
 
 Você trabalha para uma empresa grande, e a empresa de design gráfico foi subornada para enviar um PDF com uma mensagem secreta para testar a vulnerabilidade dos funcionários. Ache esta mensagem.
 
