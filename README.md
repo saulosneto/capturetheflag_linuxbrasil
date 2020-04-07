@@ -4,6 +4,8 @@
 Para executar, abra o terminal e digite ./ctflinuxbrasilnivel1 Use o gHidra (https://ghidra-sre.org/) ou outro software de sua escolha (IDA, radare2, etc) para fazer a Engenharia Reversa e achar a flag.
 
 Primeiro a achar a flag: Pedro Lucas (Parabéns!)
+Segundo a achar a flag: Gregório (Parabéns!)
+Terceiro a achar a flag: ?
 
 ---
 
